@@ -15,7 +15,7 @@
         <module>dd-manager-dao</module>
         <module>dd-manager-interface</module>
         <module>dd-manager-service</module>
-        <module>dd-manage-rweb</module>
+        <module>dd-manager-web</module>
     </modules>
     <artifactId>dd-manager</artifactId>
 <dependencies>

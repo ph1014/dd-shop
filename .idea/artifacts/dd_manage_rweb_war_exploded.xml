@@ -4,7 +4,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="dd-manage-rweb" />
+          <element id="module-output" name="dd-manager-web" />
         </element>
         <element id="directory" name="lib">
           <element id="archive" name="dd-manager-service-1.0-SNAPSHOT.jar">
@@ -46,9 +46,9 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/dd-manager/dd-manage-rweb/target/dd-manager-web/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/dd-manager/dd-manager-web/target/dd-manager-web/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="dd-manage-rweb/web/Web" />
+      <element id="javaee-facet-resources" facet="dd-manager-web/web/Web" />
     </root>
   </artifact>
 </component>

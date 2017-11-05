@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/dd-manager/dd-manage-rweb" />
+    <file type="web" url="file://$PROJECT_DIR$/dd-manager/dd-manager-web" />
+    <type id="Spring" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -12,6 +13,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/dd-manager/dd-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/dd-manager/dd-manager-web/src/test/java/dd-common/pom.xml" />
       </set>
     </option>
   </component>
